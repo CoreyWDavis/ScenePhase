@@ -1,1 +1,1 @@
-The ScenePhase project is the companion project to the article Detecting a SwiftUI App's Active, Inactive, and Background State.
+The ScenePhase project is the companion project to the article [Detecting a SwiftUI App's Active, Inactive, and Background State](https://medium.com/better-programming/detecting-active-inactive-and-background-state-in-swiftui-a5ff8acf5db1).
